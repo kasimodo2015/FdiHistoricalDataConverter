@@ -95,9 +95,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="temp_csv\data-statistics.xlsx" />
-    <None Include="temp_csv\laws.xlsx" />
-    <None Include="temp_csv\news.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
