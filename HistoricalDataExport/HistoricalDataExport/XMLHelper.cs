@@ -14,9 +14,6 @@ namespace HistoricalDataExport
     {
         public XMLHelper()
         {
-            //
-            // TODO: 在此处添加构造函数逻辑
-            //
         }
 
 
