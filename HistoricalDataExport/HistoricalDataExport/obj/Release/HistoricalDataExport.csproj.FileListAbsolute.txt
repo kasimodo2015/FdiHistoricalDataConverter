@@ -1,0 +1,12 @@
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\HistoricalDataExport.exe.config
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\HistoricalDataExport.exe
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\HistoricalDataExport.pdb
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\EPPlus.dll
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\log4net.dll
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\EPPlus.xml
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Release\log4net.xml
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Release\HistoricalDataExport.Form1.resources
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Release\HistoricalDataExport.Properties.Resources.resources
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Release\HistoricalDataExport.csproj.GenerateResource.Cache
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Release\HistoricalDataExport.exe
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Release\HistoricalDataExport.pdb

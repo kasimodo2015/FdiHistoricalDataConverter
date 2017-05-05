@@ -1,0 +1,41 @@
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe.config
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.pdb
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csprojResolveAssemblyReference.cache
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Form1.resources
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Properties.Resources.resources
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csproj.GenerateResource.Cache
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.exe
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.pdb
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.dll
+c:\users\xingzy\documents\visual studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.xml
+C:\Users\XINGZY\Documents\Visual Studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.dll
+C:\Users\XINGZY\Documents\Visual Studio 2017\Projects\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.xml
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe.config
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.pdb
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.dll
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.dll
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.xml
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.xml
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csprojResolveAssemblyReference.cache
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Form1.resources
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Properties.Resources.resources
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csproj.GenerateResource.Cache
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.exe
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.pdb
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe.config
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.exe
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\HistoricalDataExport.pdb
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.dll
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.dll
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\EPPlus.xml
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\bin\Debug\log4net.xml
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csprojResolveAssemblyReference.cache
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Form1.resources
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Properties.Resources.resources
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.csproj.GenerateResource.Cache
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.exe
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.pdb
+I:\私活\FdiWebSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Form2.resources
+C:\Work\Projects\My Projects\FdiSite\HistoricalDataExport\HistoricalDataExport\obj\Debug\HistoricalDataExport.Form2.resources
